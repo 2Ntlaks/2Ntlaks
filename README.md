@@ -22,7 +22,7 @@
 - 📧 Email: ntlakaniphomgaguli210@example.com
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ntlakanipho-mgaguli/)
 - 🐙 GitHub: [GitHub Profile](https://github.com/2Ntlaks)
-- 🌐 Portfolio: [Portfolio Website](https://example.com)
+- 🌐 Portfolio: [Portfolio Website](https://master--ntlakaniphomgaguli.netlify.app/)
 
 ## Fun Facts
 - 🎮 I enjoy playing video games in my free time
