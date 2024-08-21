@@ -19,7 +19,7 @@
   - Serves as a milestone project for students to apply the skills they learn in the course
 
 ## Contact
-- 📧 Email: ntlakaniphomgaguli210@example.com
+- 📧 Email: ntlakaniphomgaguli210@gmail.com
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ntlakanipho-mgaguli/)
 - 🐙 GitHub: [GitHub Profile](https://github.com/2Ntlaks)
 - 🌐 Portfolio: [Portfolio Website](https://master--ntlakaniphomgaguli.netlify.app/)
@@ -27,6 +27,5 @@
 ## Fun Facts
 - 🎮 I enjoy playing video games in my free time
 - 🎨 I have a passion for digital art and design
-- 🌍 I'm fascinated by different cultures and love learning about them
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
