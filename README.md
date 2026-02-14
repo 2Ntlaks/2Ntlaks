@@ -24,8 +24,8 @@ I'm a **Computer Engineering Student** at Cape Peninsula University of Technolog
 -  [YouTube](https://www.youtube.com/@ntlakaniphomgaguli) - Programming tutorials
 -  [Udemy](https://www.udemy.com/user/ntlakanipho-mgaguli/) - WebGL Course
 -  [TikTok](https://www.tiktok.com/@ntlakanipho_mgaguli) - Quick programming tips
--  [Personal Website](https://master--ntlakaniphomgaguli.netlify.app/)
--  [LinkedIn](https://www.linkedin.com/in/ntlakanipho-mgaguli)
+-  [Personal Website](https://ntlaks.dev)
+-  [LinkedIn](https://linkedin.com/in/ntlakanipho-mgaguli-36a1ab319)
 
 ## My Philosophy
 > "I believe in sharing knowledge and collaborating."
